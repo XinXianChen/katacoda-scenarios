@@ -1,4 +1,4 @@
-####切换插件
+
 1.使用命令`system.plugins`{{execute}} 来查看插件列表
 
 2.使用命令 use + plugin 可以使用指定插件，如 ` use perf@PERF`{{execute}} 插件Perf，Perf是Perfma开发的一款Linux性能分析工具。

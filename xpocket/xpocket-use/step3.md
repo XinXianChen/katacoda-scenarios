@@ -1,4 +1,3 @@
-####插件使用示例
 
 1.使用命令`system.plugins`{{execute}} 来查看插件列表
 

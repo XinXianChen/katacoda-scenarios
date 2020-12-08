@@ -1,4 +1,3 @@
-####启动xpocket
 
 1.下载xpocket
 `wget https://perfma.com/xpocket`{{execute}}

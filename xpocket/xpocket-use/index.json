@@ -6,31 +6,31 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "启动模拟程序 simulator",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "启动xpocket",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "插件使用示例",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "切换插件",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "退出插件",
         "text": "step5.md"
       },
       {
-        "title": "Step 6",
+        "title": "XPocket进阶使用 - process",
         "text": "step6.md"
       },
       {
-        "title": "Step 7",
+        "title": "退出XPocket",
         "text": "step7.md"
       }
     ],

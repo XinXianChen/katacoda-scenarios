@@ -1,4 +1,3 @@
-####启动模拟程序 simulator
 
 1.下载模拟程序 perfma-simulator-2.0.0-RELEASE-ear.tar.gz
 `wget https://perfma.com/perfma-simulator`{{execute}}
