@@ -1,6 +1,5 @@
 
-1.使用命令`system.plugins`{{execute}} 来查看插件列表，如下图所示。
-![plugins](../resourse/plugins.jpg)
+1.使用命令`system.plugins`{{execute}} 来查看插件列表。
 
 2.使用命令 use + pluginName 来使用插件，如`use arthas@ALIBABA`
 

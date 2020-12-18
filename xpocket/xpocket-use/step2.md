@@ -8,8 +8,5 @@
 3.启动
 `sh xpocket/start.sh`{{execute}}
 
-启动成功后如下所示
-![start](../resourse/start.jpg)
-
 
 
