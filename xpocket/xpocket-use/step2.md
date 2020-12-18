@@ -5,7 +5,7 @@
 2.解压
 `tar -xvf  XPocket-2.0.1-SNAPSHOT-ear.tar.gz`{{execute}}
 
-3.启动
+3.启动XPocket
 `sh xpocket/start.sh`{{execute}}
 
 
