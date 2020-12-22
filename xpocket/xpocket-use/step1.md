@@ -3,7 +3,7 @@
 `wget http://192.168.51.149:17961/api/community/plugin/down/simulator.gz`{{execute}}
 
 2.解压模拟程序
-`tar -xvf perfma-simulator-2.0.0-RELEASE-ear.tar.gz`{{execute}}
+`tar -xvf simulator.gz`{{execute}}
 
 3.进入模拟程序
 `cd simulator`{{execute}}
