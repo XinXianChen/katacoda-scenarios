@@ -1,6 +1,6 @@
 
 1.下载模拟程序 perfma-simulator-2.0.0-RELEASE-ear.tar.gz
-`wget https://xpocket-plugin-storage.oss-cn-hangzhou.aliyuncs.com/perfma-simulator-2.0.0-RELEASE-ear.tar.gz?Expires=1607425151&OSSAccessKeyId=TMP.3Ki5qYRogqWRomg7b9LFyFu59GSPY1j3bmf7LRy9WQaJCZiCqTqYjHqEXekshVtEEAXtgT5npQeQzCc6CU2JjanRPTobnn&Signature=Un%2BDbxEbIwUr1KauUgnekJwvNPE%3D`{{execute}}
+`wget http://192.168.51.149:17961/api/community/plugin/down/simulator.gz`{{execute}}
 
 2.解压模拟程序
 `tar -xvf perfma-simulator-2.0.0-RELEASE-ear.tar.gz`{{execute}}

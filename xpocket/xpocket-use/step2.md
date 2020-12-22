@@ -1,9 +1,9 @@
 
 1.下载XPpocket
-`wget https://xpocket-plugin-storage.oss-cn-hangzhou.aliyuncs.com/XPocket-2.0.1-SNAPSHOT-ear.tar.gz?Expires=1607627008&OSSAccessKeyId=TMP.3Kg7mGU7BPHmxo9Czto4mT4LbRBwgWSHf3QKjzt8UTMF3xxqgjWXps24vPyNFkWJdpy3JH9SooqsZiH1HwDL4ut4CVKXiz&Signature=BhcK1XRXr%2FIQfLsWuNg%2Bvw2uGLk%3D`{{execute}}
+`wget http://192.168.51.149:17961/api/community/plugin/down/xpocket.gz`{{execute}}
 
 2.解压
-`tar -xvf  XPocket-2.0.1-SNAPSHOT-ear.tar.gz`{{execute}}
+`tar -xvf  xpocket.gz`{{execute}}
 
 3.启动XPocket
 `sh xpocket/start.sh`{{execute}}
