@@ -1,6 +1,6 @@
 
 1.下载XPpocket
-`wget http://192.168.100.104:17961/api/community/plugin/down/xpocket.gz`{{execute}}
+`wget http://xpocket.perfma.com/api/community/plugin/down/xpocket.gz`{{execute}}
 
 2.解压
 `tar -xvf xpocket.gz`{{execute}}
