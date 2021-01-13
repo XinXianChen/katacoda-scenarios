@@ -1,9 +1,9 @@
 
-1.下载模拟程序 simulator
-`wget http://xpocket.perfma.com/api/community/plugin/down/simulator.gz`{{execute}}
+1.下载模拟程序
+`wget https://a.perfma.net/xpocket/download/XPocket-demo.tar.gz`{{execute}}
 
 2.解压模拟程序
-`tar -xvf simulator.gz`{{execute}}
+`tar -xvf XPocket-demo.tar.gz`{{execute}}
 
 3.进入模拟程序
 `cd simulator`{{execute}}
