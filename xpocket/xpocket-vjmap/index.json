@@ -1,6 +1,6 @@
 {
-  "title": "XPocket基础教程",
-  "description": "基础教程",
+  "title": "VJMap实践教程",
+  "description": "VJMap实践教程",
   "difficulty": "Beginner",
   "time": "",
   "details": {
@@ -14,11 +14,11 @@
         "text": "step2.md"
       },
       {
-        "title": "插件使用示例",
+        "title": "启用VJMap",
         "text": "step3.md"
       },
       {
-        "title": "切换插件",
+        "title": "查看各个分代的内存分配情况",
         "text": "step4.md"
       },
       {
@@ -41,6 +41,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "java8"
+    "imageid": "openjdk:15"
   }
 }
